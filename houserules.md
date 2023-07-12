@@ -27,3 +27,8 @@ Example: a 2d6+2 attack crit becomes 12+2d6+2 damage.
 Once per turn, a player may ask for a skill check to do *something*. This can be anything, as long as they can make it plausible. The monsters can do this too, the extent of it depending on their level of intelligence.
 
 Example: Athletics check to trip a foe.
+
+# HP gain when leveling up
+
+If you roll a hit die to determine your HP increase, reroll ones.
+
