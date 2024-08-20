@@ -18,9 +18,15 @@ Spells without an attack roll cannot be used.
 
 # Critical hits
 
-Critical hits don't deal double dice damage. Instead they do the regular dice max damage + the regular attacks damage (dice + modifiers).
+## Perkins Crit
+
+Critical hits don't deal double dice damage. Instead they do normal attack's max damage + the regular attacks damage (dice + modifiers).
 
 Example: a 2d6+2 attack crit becomes 12+2d6+2 damage.
+
+## Inspirational Crit 
+
+When a player scores a crit, another player character who witnessed the crit gains inspiration.
 
 # Skill checks during combat
 
